@@ -2,10 +2,13 @@
 The objective of the workshop is
 
 ## What is Conductor ?
+A conductor is a material that allows electric current (flow of electrons) to pass through it easily because it has a large number of free electrons.
 
 ## What is Semiconductor ??
+A semiconductor is a material whose ability to conduct electricity is between a conductor and an insulator.It can act as a conductor or an insulator depending on conditions like temperature, voltage, or doping
 
 ## What is Insulator ??
+An insulator is a material that does NOT allow electric current to flow easily because it has very few or no free electrons
 
 # Real worlds Chip usage 
 
