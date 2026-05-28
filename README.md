@@ -1,5 +1,5 @@
 # 2-Day-Workshop-on-VLSI-Design-flow-RTL-To-GDS-ChipXpert-
-The objective of the workshop is
+The objective of this repository is to showcase the RTL to GDSII design flow learned during the workshop using Questasim for simulation and verification. This repository demonstrates the implementation and understanding of various VLSI design stages including RTL design, simulation, synthesis concepts, and physical design flow involved in ASIC development.
 
 ## What is Conductor ?
 A conductor is a material that allows electric current (flow of electrons) to pass through it easily because it has a large number of free electrons.
