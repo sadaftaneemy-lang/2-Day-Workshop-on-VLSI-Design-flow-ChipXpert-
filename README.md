@@ -10,6 +10,21 @@ A semiconductor is a material whose ability to conduct electricity is between a 
 ## What is Insulator ??
 An insulator is a material that does NOT allow electric current to flow easily because it has very few or no free electrons
 
+1. Design entry. Enter the design into an ASIC design system, either using a hardware 
+description language ( HDL ) or schematic entry .
 
+3. Logic synthesis. Use an HDL (VHDL or Verilog) and a logic synthesis tool to 
+produce a netlist a description of the logic cells and their connections.
+ 
+5. System partitioning. Divide a large system into ASIC-sized pieces.
+   
+7. Prelayout simulation. Check to see if the design functions correctly.
+   
+9. Floorplanning. Arrange the blocks of the netlist on the chip. 
+10. Placement. Decide the locations of cells in a block.  
+11. Routing. Make the connections between cells and blocks. 
+12. Extraction. Determine the resistance and capacitance of the interconnect. 
+13. Postlayout simulation. Check to see the design still works with the added loads of the 
+interconnect.
 
 
