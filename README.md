@@ -21,7 +21,7 @@ description language ( HDL ) or schematic entry .
 **2. Logic synthesis:** Use an HDL (VHDL or Verilog) and a logic synthesis tool to 
 produce a netlist a description of the logic cells and their connections.
  
-3. System partitioning : Divide a large system into ASIC-sized pieces.
+**3. System partitioning :** Divide a large system into ASIC-sized pieces.
    
 4. Prelayout simulation : Check to see if the design functions correctly.
    
