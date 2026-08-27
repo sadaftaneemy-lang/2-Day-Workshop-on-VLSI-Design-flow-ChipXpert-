@@ -15,7 +15,7 @@ An insulator is a material that does NOT allow electric current to flow easily b
   
 ## Design Flow
 
-1. Design entry : Enter the design into an ASIC design system, either using a hardware 
+**1. Design entry :** Enter the design into an ASIC design system, either using a hardware 
 description language ( HDL ) or schematic entry .
 
 2. Logic synthesis: Use an HDL (VHDL or Verilog) and a logic synthesis tool to 
