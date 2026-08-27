@@ -27,9 +27,9 @@ produce a netlist a description of the logic cells and their connections.
    
 5. Floorplanning : Arrange the blocks of the netlist on the chip. 
 6. Placement : Decide the locations of cells in a block.  
-7. Routing. Make the connections between cells and blocks. 
-8. Extraction. Determine the resistance and capacitance of the interconnect. 
-9. Postlayout simulation. Check to see the design still works with the added loads of the 
+7. Routing : Make the connections between cells and blocks. 
+8. Extraction : Determine the resistance and capacitance of the interconnect. 
+9. Postlayout simulation : Check to see the design still works with the added loads of the 
    interconnect.
 
 
