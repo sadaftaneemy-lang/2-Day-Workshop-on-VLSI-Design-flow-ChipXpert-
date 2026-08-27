@@ -13,7 +13,7 @@ An insulator is a material that does NOT allow electric current to flow easily b
 ## Tools used
 - Questasim
   
-## Design 
+## Design Flow
 
 1. Design entry. Enter the design into an ASIC design system, either using a hardware 
 description language ( HDL ) or schematic entry .
