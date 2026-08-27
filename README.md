@@ -8,9 +8,12 @@ A conductor is a material that allows electric current (flow of electrons) to pa
 A semiconductor is a material whose ability to conduct electricity is between a conductor and an insulator.It can act as a conductor or an insulator depending on conditions like temperature, voltage, or doping
 
 ## What is Insulator ??
-An insulator is a material that does NOT allow electric current to flow easily because it has very few or no free electrons
+An insulator is a material that does NOT allow electric current to flow easily because it has very few or no free electrons.
+
 ## Tools used
 - Questasim
+  
+## Design 
 
 1. Design entry. Enter the design into an ASIC design system, either using a hardware 
 description language ( HDL ) or schematic entry .
