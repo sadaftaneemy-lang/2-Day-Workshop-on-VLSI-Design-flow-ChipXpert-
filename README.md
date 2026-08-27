@@ -15,18 +15,18 @@ An insulator is a material that does NOT allow electric current to flow easily b
   
 ## Design Flow
 
-1. Design entry. Enter the design into an ASIC design system, either using a hardware 
+1. Design entry : Enter the design into an ASIC design system, either using a hardware 
 description language ( HDL ) or schematic entry .
 
-2. Logic synthesis. Use an HDL (VHDL or Verilog) and a logic synthesis tool to 
+2. Logic synthesis: Use an HDL (VHDL or Verilog) and a logic synthesis tool to 
 produce a netlist a description of the logic cells and their connections.
  
-3. System partitioning. Divide a large system into ASIC-sized pieces.
+3. System partitioning : Divide a large system into ASIC-sized pieces.
    
-4. Prelayout simulation. Check to see if the design functions correctly.
+4. Prelayout simulation : Check to see if the design functions correctly.
    
-5. Floorplanning. Arrange the blocks of the netlist on the chip. 
-6. Placement. Decide the locations of cells in a block.  
+5. Floorplanning : Arrange the blocks of the netlist on the chip. 
+6. Placement : Decide the locations of cells in a block.  
 7. Routing. Make the connections between cells and blocks. 
 8. Extraction. Determine the resistance and capacitance of the interconnect. 
 9. Postlayout simulation. Check to see the design still works with the added loads of the 
