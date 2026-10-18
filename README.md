@@ -31,5 +31,7 @@ produce a netlist a description of the logic cells and their connections.
 8. Extraction : Determine the resistance and capacitance of the interconnect. 
 9. Postlayout simulation : Check to see the design still works with the added loads of the 
    interconnect.
-
+   
+## Certificate
+<img width="1600" height="1131" alt="WhatsApp Image 2026-10-18 at 11 26 14 PM" src="https://github.com/user-attachments/assets/f2deef22-d3cb-4984-8d30-064a45ded2d9" />
 
